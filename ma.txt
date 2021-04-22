@@ -1,0 +1,761 @@
+#EXTM3U
+#EXTINF:-1 group-title="TV" tvg-logo="https://caixapreta.pt/logos/TDM-TeledifusÃ£o_de_Macau.png",TDM - TeledifusÃ£o de Macau (PT)
+https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="SIC" tvg-logo="https://caixapreta.pt/logos/SIC.png",SIC
+https://live.impresa.pt/live/sic/sic540p.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="SIC NotÃ­cias" tvg-logo="https://caixapreta.pt/logos/SIC-NotÃ­cias.png",SIC NotÃ­cias
+https://live.impresa.pt/live/sicnot/sicnot540p.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="Porto Canal" tvg-logo="https://caixapreta.pt/logos/Porto-Canal.png",Porto Canal
+https://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="TVI" tvg-logo="https://m3upt.com/logos/TVI.png",TVI
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjEgODowOjQgQU0maGFzaF92YWx1ZT1VdUJEY0E0OFVQWUx2ZGh2TUxzdFN3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9Y2FjZTk4YWMtZWY1MC00ODFlLWI0YTMtYzdlZDUwNTg3ZTVj
+#EXTINF:-1 group-title="TV" tvg-id="TVI24" tvg-logo="https://m3upt.com/logos/TVI24.png",TVI 24
+https://video-auth6.iol.pt/live_tvi24/live_tvi24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjEgODowOjQgQU0maGFzaF92YWx1ZT1EZnRhVHJiMm9mdEFPMThBdEIrclJ3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MmQyNGQ0ZjctZjAyZS00OTZiLTgxYmEtOThjZWFiYmQ5N2Nl
+#EXTINF:-1 group-title="TV" tvg-logo="https://m3upt.com/logos/TVM.png",TVM
+http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports Update 2",Sport Tv 1
+https://www.livedooMOVIES.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports Update 2",Sport Tv 2
+https://www.livedooMOVIES.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports Update 2",Sport Tv 3
+https://www.livedooMOVIES.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports Update 2",Sport Tv 4
+https://www.livedooMOVIES.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports Update 2",Sport Tv 5
+https://www.livedooMOVIES.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XNP4TM7n/Polish-20200617-000135235.jpg" group-title="TV LOCAL",TV ÁGUA BOA
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L61CJkFk/images.jpg" group-title="FLMES", CLASSIQUE TV
+https://stmv6.srvstm.com/classique/classique/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KcCWHbk.png" group-title="INDONESIA",Celestial Movies (Opt-1)
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+#EXTINF:-1 tvg-id="a2.ru" tvg-name="A2" tvg-logo="http://amediatv.ru/wp-content/uploads/2017/09/a2.png" group-title="Russia;Movies",A2 (Opt-3)  11
+http://sc.id-tv.kz/A2_36_37.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Unsorted",CANAL WOW  25
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Unsorted",CANAL BHTV  27
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8
+#EXTINF:-1 tvg-logo="https://lut.im/4LeikAY7IP/CmMDuTuJ9MVPbJIc.png" group-title="CANAL ABERTO", REDE BRASIL
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1109850641.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RgYEjYE.png" group-title="USA",Blush TV
+https://nimble.dashstreams.net/onestudio/blushtv/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p14.zdassets.com/hc/settings_assets/667658/200059238/nUGjGiWPOdPJxcFva0eEpw-Contv-logoBig.png" group-title="USA",CONtv
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CoPP6vu.png" group-title="BELGIUM",Ketnet Junior
+http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tK5ZiIU.png" group-title="FRANCE",D5TV
+https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist_w958420568_b1928000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iYalq6I.png" group-title="FRANCE",Gong Max
+http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dtHaTAy.png" group-title="FRANCE",TeleToon+
+http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://kuriakos-cine.com/wp-content/uploads/2017/07/cropped-512x512_cine_v1-270x270.png" group-title="PORTUGAL",Kuriakos Cine
+http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="Unsorted;Kids",ANIPLUS  38
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4CzYgbn.png" group-title="24/7 ENGLISH",Bonanza
+http://dai.google.com/linear/hls/event/LeVr-Z0_Q4qMDdXx7zr22w/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KITjJUj.png" group-title="24/7 ENGLISH",Laurel & Hardy
+http://dai.google.com/linear/hls/event/uDdlFsS2S1CqcUkd7KGu4Q/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mO4czyn.png" group-title="24/7 ENGLISH",Sherlock Holmes
+http://dai.google.com/linear/hls/event/fMcxjP7ORACGFsBvi7ZhAg/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c5vbjmJ.png" group-title="24/7 ENGLISH",The Greatest American Hero
+http://dai.google.com/linear/hls/event/zaW9PVeXQeamNt6SZ9FsOg/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0hTpPb6.png" group-title="24/7 ENGLISH",The Lone Ranger
+http://dai.google.com/linear/hls/event/dRKvXuioSv-e5T65yR_7Ow/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmSyxeP.png" group-title="USA",American Classic TV
+https://nimble.dashstreams.net/onestudio/americanclassictv/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fjUvjE7.png" group-title="RUSSIA",1TV Crimea
+http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FKqYJnq.png" group-title="UKRAINE",Lale
+http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/R8qQGoZ.png" group-title="CANAIS TEMPORÁRIOS 4 (LATINOS)",BHtv
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?IMDSFULL
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-logo="https://i.imgur.com/dkDjUO1.jpg" group-title="Canais | Filmes e Séries",CINE LIVRE (Filmes)
+https://livefocamundo.com:8081/8588/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0JM9jLh.jpg" group-title="Canais | Filmes e Séries",GOSPEL MOVIES TELEVISION 
+https://stmv1.srvif.com/gospelf/gospelf/chunklist_w74712399.m3u8
+#EXTINF:-1 tvg-id="TCM" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/dcb3ff84b8f31ddc39ef213b42402f75.jpg" group-title="Canais | Filmes e Séries",CANAL 29 (Séries Antigas)
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w688155486.m3u8
+#EXTINF:-1 tvg-id="TV Aracati" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/be677f392b634453f48ef4e0819c7532.jpg" group-title="Canais | Filmes e Séries",ARACATI TV (Séries)
+https://livefocamundo.com:8081/8148/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Spyke" tvg-logo="https://i.imgur.com/jx1VeJ7.jpg" group-title="Canais | Filmes e Séries",SPYKE (Itália)
+https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/index_2500_av-b.m3u8
+#EXTINF:-1 tvg-id="YEE" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7efb8aa368564e9ebb3befd2a8b0cb09.jpg"  group-title="Canais | Variedades",TV TEENNET
+https://srv4.zcast.com.br/tvteennet/tvteennet/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | Abertos",AMERCIA HORROR CHANNEL
+#EXTINF:0 group-title="CÂMERAS" tvg-logo="https://i.imgur.com/wm47EEx.png",Praia Matosinhos
+http://213.13.26.11:1935/live/matosinhos.stream/livestream.m3u8?IMDSFULL
+#EXTINF:0 group-title="CÂMERAS" tvg-logo="https://i.imgur.com/wm47EEx.png",Ryazan Oblast - Vyshenski Monastyr
+http://212.26.225.115:80/mjpg/video.mjpg?IMDSFULL
+#EXTINF:0 group-title="CÂMERAS" tvg-logo="https://i.imgur.com/wm47EEx.png",Shanghai - Skyline
+http://bililive.kksmg.com/hls/sdi80/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CÂMERAS" tvg-logo="https://i.imgur.com/wm47EEx.png",Ponte Internacional da Amizade
+https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/chunklist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CÂMERAS" tvg-logo="https://i.imgur.com/wm47EEx.png",Praia de Tramandaí
+http://vid1.streaming.websul.net.br:1935/live/ods-paradouro.stream/chunklist_w544980703.m3u8?IMDSFULL
+#EXTINF:0 group-title="CÂMERAS" tvg-logo="https://i.imgur.com/wm47EEx.png",Aeroporto de Congonhas
+https://dj73o2te2agi7.cloudfront.net/a1/14297.stream/str6/playlist.m3u8?m_hash=JSxw5LnznUOE31-KIsd6di7J7M83XG9tEov3N6FoihA=
+#EXTINF:0 group-title="CÂMERAS" tvg-logo="https://i.imgur.com/wm47EEx.png",Aeroporto de Naha
+https://57eeb4e810fec.streamlock.net/live/livenahacity.smil/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CÂMERAS" tvg-logo="https://i.imgur.com/wm47EEx.png",AEROPORTO MAJOR BRIGADEIRO(CÂMERA 2)
+http://cameras.interaviation.com.br/camera02/interaviation2.m3u8?IMDSFULL
+#EXTINF:0 group-title="CÂMERAS" tvg-logo="https://i.imgur.com/wm47EEx.png",SANTO AMARO
+http://video-auth1.iol.pt:1935/beachcam/santoamaro/chunks.m3u8?IMDSFULL
+#EXTINF:0 group-title="CÂMERAS" tvg-logo="https://i.imgur.com/wm47EEx.png",BALTIMORA AO VIVO
+https://videos3.earthcam.com/fecnetwork/15658.flv/chunklist_w331834704.m3u8?IMDSFULL
+http://zssd-tiger.hls.camzonecdn.com/CamzoneStreams/zssd-tiger/Playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CÂMERAS" tvg-logo="https://i.imgur.com/wm47EEx.png",ESTUDIO 96.5 FM RIO DE JANEIRO - RJ
+http://cdn.rj.assocrj.com.br/live//tupi-estudio-video06/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CÂMERAS" tvg-logo="https://i.imgur.com/wm47EEx.png",ESTUDIO 100.5 FM RIO DE JANEIRO - RJ
+http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CÂMERAS" tvg-logo="https://i.imgur.com/wm47EEx.png",FLORIDA MARINA CAM AO VIVO
+https://videos3.earthcam.com/fecnetwork/8891.flv/chunklist_w246661914.m3u8?IMDSFULL
+#EXTINF:0 group-title="CÂMERAS" tvg-logo="https://i.imgur.com/wm47EEx.png",FRANÇA SERRA PARIS AO VIVO
+http://live.webcam-hd.fr/64connections/chamrousse2.stream/chunklist_w689467311.m3u8?IMDSFULL
+#EXTINF:0 group-title="CÂMERAS" tvg-logo="https://i.imgur.com/wm47EEx.png",MIAMI BEACHES AO VIVO
+https://videos3.earthcam.com/fecnetwork/13862.flv/chunklist_w309672791.m3u8?IMDSFULL
+#EXTINF:0 group-title="CÂMERAS" tvg-logo="https://i.imgur.com/wm47EEx.png",MURO DAS LAMENTAÇÕES AO VIVO
+https://568bc781ac9d7.streamlock.net/23595_LIVE_Kotel_Live1/_definst_/23595_LIVE_Kotel_Live1/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CÂMERAS" tvg-logo="https://i.imgur.com/wm47EEx.png",NEW YORK CENTER AO VIVO
+https://videos3.earthcam.com/fecnetwork/9974.flv/chunklist_w246661914.m3u8?IMDSFULL
+#EXTINF:0 group-title="CÂMERAS" tvg-logo="https://i.imgur.com/wm47EEx.png",NEW YORK TIMES SQUARE CAM 1
+https://videos3.earthcam.com/fecnetwork/hdtimes10.flv/chunklist_w48750913.m3u8?IMDSFULL
+#EXTINF:0 group-title="CÂMERAS" tvg-logo="https://i.imgur.com/wm47EEx.png",PONTE DA AMIZADE - SENTIDO PARAGUAI - AO VIVO
+https://cdn.jmvstream.com/w/IPC-7044/camera.stream/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CÂMERAS" tvg-logo="https://i.imgur.com/wm47EEx.png",PRAIA BASE NAUTIC FRANÇA - AO VIVO
+http://live.webcam-hd.fr/64connections/ronce.stream/chunklist_w2060603395.m3u8?IMDSFULL
+#EXTINF:0 group-title="CÂMERAS" tvg-logo="https://i.imgur.com/wm47EEx.png",PRAIA ANGLET - MADRAGUE
+http://live.webcam-hd.fr/64connections/angletmadrague.stream/chunklist_w538216640.m3u8?IMDSFULL
+#EXTINF:0 group-title="CÂMERAS" tvg-logo="https://i.imgur.com/wm47EEx.png",PRAIA BIARRITZ LA GRANDE PLAGE FRANÇA
+http://live.webcam-hd.fr/64connections/biarritzgrandeplage.stream/chunklist_w295965600.m3u8?IMDSFULL
+#EXTINF:0 group-title="CÂMERAS" tvg-logo="https://i.imgur.com/wm47EEx.png",PRAIA FRANÇA AO VIVO
+http://live.webcam-hd.fr/64connections/hossegor.stream/chunklist_w1153937984.m3u8?IMDSFULL
+#EXTINF:0 group-title="CÂMERAS" tvg-logo="https://i.imgur.com/wm47EEx.png",PRAIA FRANÇA AO VIVO(2)
+http://live.webcam-hd.fr/64connections/seignossebourdaines.stream/chunklist_w797396608.m3u8?IDMSFULL
+#EXTINF:0 group-title="CÂMERAS" tvg-logo="https://i.imgur.com/wm47EEx.png",PRAIA FRANÇA SEIGNOSSE - LES BOURDAINES
+http://live.webcam-hd.fr/64connections/ronce.stream/chunklist_w1815044778.m3u8?IMDSFULL
+#EXTINF:0 group-title="CÂMERAS" tvg-logo="https://i.imgur.com/wm47EEx.png",PRAIA LA TREMBLADE - BASE NAUTIQUE
+http://live.webcam-hd.fr/64connections/hossegor.stream/chunklist_w622108662.m3u8?IMDSFULL
+#EXTINF:0 group-title="CÂMERAS" tvg-logo="https://i.imgur.com/wm47EEx.png",PRAIA LE HAVRE FRANÇA - AO VIVO
+http://live.webcam-hd.fr/64connections/lehavre.stream/chunklist_w338268426.m3u8?IMDSFULL
+#EXTINF:0 group-title="CÂMERAS" tvg-logo="https://i.imgur.com/wm47EEx.png",PRAIA HENDAYE VUE FIXE FRANÇA - AO VIVO
+http://live.webcam-hd.fr/64connections/hendayevuefixe.stream/chunklist_w545247319.m3u8?IMDSFULL
+#EXTINF:0 group-title="CÂMERAS" tvg-logo="https://i.imgur.com/wm47EEx.png",PRAIA PONTAILLAC FRANÇA - AO VIVO
+http://live.webcam-hd.fr/64connections/royanpontaillac.stream/chunklist_w34224111.m3u8?IMDSFULL
+#EXTINF:0 group-title="CÂMERAS" tvg-logo="https://i.imgur.com/wm47EEx.png",PRAIA SAINT BRÉVIN FRANÇA - AO VIVO
+http://live.webcam-hd.fr/64connections/saintbrevin.stream/chunklist_w961795737.m3u8?IMDSFULL
+#EXTINF:0 group-title="CÂMERAS" tvg-logo="https://i.imgur.com/wm47EEx.png",PRAIA SAINT-JEAN-DE-LUZ FRANÇA - AO VIVO
+http://live.webcam-hd.fr/64connections/stjeandeluz.stream/chunklist_w1710448646.m3u8?IMDSFULL
+#EXTINF:0 group-title="CÂMERAS" tvg-logo="https://i.imgur.com/wm47EEx.png",PRAIA SIOUVILLE FRANÇA - AO VIVO
+http://live.webcam-hd.fr/64connections/siouville.stream/chunklist_w2022378642.m3u8?IMDSFULL
+#EXTINF:0 group-title="CÂMERAS" tvg-logo="https://i.imgur.com/wm47EEx.png",PRAIA ZARAUTZ TAHIT
+http://live.webcam-hd.fr/64connections/zarautz.stream/chunklist_w636387154.m3u8?IMDSFULL
+#EXTINF:0 group-title="CÂMERAS" tvg-logo="https://i.imgur.com/wm47EEx.png",SAN FRANCISCO 360° AO VIVO
+https://videos3.earthcam.com/fecnetwork/6961.flv/chunklist_w335961271.m3u8?IMDSFULL
+#EXTINF:0 group-title="CÂMERAS" tvg-logo="https://i.imgur.com/wm47EEx.png",SLOPPY JOE'S BAR (KEY WEST) WEBCAM AO VIVO
+https://wowzaprod192-i.akamaihd.net/hls/live/768242/a7d28752/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CÂMERAS" tvg-logo="https://i.imgur.com/wm47EEx.png",THAILAND AO VIVO
+https://videos3.earthcam.com/fecnetwork/14329.flv/chunklist_w670501004.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="CANAIS AMERICANOS" tvg-logo="https://i.imgur.com/Anlb1SP.png",United States: 23 ABC (KERO)
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS AMERICANOS" tvg-logo="https://i.imgur.com/Anlb1SP.png",United States: 24/7 Retro TV
+http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS AMERICANOS" tvg-logo="https://i.imgur.com/Anlb1SP.png",United States: 30A Investment Pitch
+http://www.30a-tv.com/InvPit.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="CANAIS AMERICANOS" tvg-logo="https://i.imgur.com/Anlb1SP.png",United States: 30A Sidewalks
+http://30a-tv.com/sidewalks.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS AMERICANOS" tvg-logo="https://i.imgur.com/Anlb1SP.png",United States: 30A TV
+http://30a-tv.com/my999.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS AMERICANOS" tvg-logo="https://i.imgur.com/Anlb1SP.png",United States: 3ABN KIDS TV
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS AMERICANOS" tvg-logo="https://i.imgur.com/Anlb1SP.png",United States: 3ABN Latino
+http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="CANAIS AMERICANOS" tvg-logo="https://i.imgur.com/Anlb1SP.png",United States: 3News Now (KMTV-TV)
+http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS AMERICANOS" tvg-logo="https://i.imgur.com/Anlb1SP.png",United States: 7News Boston (WHDH)
+https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS AMERICANOS" tvg-logo="https://i.imgur.com/Anlb1SP.png",United States: ABC 2 Baton Rouge LA (WBRZ-HD)
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8?IMDSFULL
+
+
+#EXTINF:0 group-title="CANAIS AMERICANOS" tvg-logo="https://i.imgur.com/Anlb1SP.png",United States: Action News Jax (WJAX-TV)
+http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/2564k/index.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS AMERICANOS" tvg-logo="https://i.imgur.com/Anlb1SP.png",United States: Akaku 53 (Hawaii)
+https://akaku.vod.castus.tv/live/ch1.m3u8?IMDSFULL
+
+
+#EXTINF:0 group-title="CANAIS AMERICANOS" tvg-logo="https://i.imgur.com/Anlb1SP.png",United States: AKC TV
+https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="CANAIS AMERICANOS" tvg-logo="https://i.imgur.com/Anlb1SP.png",United States: Al Horreya TV
+http://media.smc-host.com:1935/alhorreya.tv/_definst_mp4:alhorreya3/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS AMERICANOS" tvg-logo="https://i.imgur.com/Anlb1SP.png",United States: Al Hurra
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS AMERICANOS" tvg-logo="https://i.imgur.com/Anlb1SP.png",United States: Aliento Vision
+http://livestreamcdn.net:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS AMERICANOS" tvg-logo="https://i.imgur.com/Anlb1SP.png",United States: American Classic Network
+https://nimble.dashstreams.net/onestudio/americanclassictv/chunks.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="CANAIS AMERICANOS" tvg-logo="https://i.imgur.com/Anlb1SP.png",United States: American Horrors
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="CANAIS AMERICANOS" tvg-logo="https://i.imgur.com/Anlb1SP.png",United States: America's Funniest Videos
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/playlist.m3u8?IMDSFULL?p=roku
+#EXTINF:0 group-title="CANAIS AMERICANOS" tvg-logo="https://i.imgur.com/Anlb1SP.png",United States: AMG TV
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="CANAIS AMERICANOS" tvg-logo="https://i.imgur.com/Anlb1SP.png",United States: Blush Romance TV
+https://nimble.dashstreams.net/onestudio/blushtv/chunks.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS AMERICANOS" tvg-logo="https://i.imgur.com/Anlb1SP.png",United States: Boston 25 News (WFXT)
+http://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="CANAIS AMERICANOS" tvg-logo="https://i.imgur.com/Anlb1SP.png",United States: Bowie TV
+http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS AMERICANOS" tvg-logo="https://i.imgur.com/Anlb1SP.png",United States: Brut.
+http://a.jsrdn.com/broadcast/d5b47/+0000/low/c.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS AMERICANOS" tvg-logo="https://i.imgur.com/Anlb1SP.png",United States: Buffalo TV
+http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS AMERICANOS" tvg-logo="https://i.imgur.com/Anlb1SP.png",United States: BUTV10 (Boston University)
+http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS AMERICANOS" tvg-logo="https://i.imgur.com/Anlb1SP.png",United States: Buzzr
+https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="CANAIS AMERICANOS" tvg-logo="https://i.imgur.com/Anlb1SP.png",United States: byu TV
+http://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="CANAIS AMERICANOS" tvg-logo="https://i.imgur.com/Anlb1SP.png",United States: Classic Arts Showcase
+https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="CANAIS AMERICANOS" tvg-logo="https://i.imgur.com/Anlb1SP.png",United States: ConTV
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1280x720_2108000/chunklist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS AMERICANOS" tvg-logo="https://i.imgur.com/Anlb1SP.png",United States: CSat TV
+http://media.smc-host.com:1935/csat.tv/smil:csat.smil/chunklist_w1421926306_b692000_slar_t64SEQ=.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="CANAIS AMERICANOS" tvg-logo="https://i.imgur.com/Anlb1SP.png",United States: Horrified TV
+https://nimble.dashstreams.net/onestudio/horrified/chunks.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="CANAIS AMERICANOS" tvg-logo="https://i.imgur.com/Anlb1SP.png",United States: It’s At The Movies
+https://nimble.dashstreams.net/onestudio/its_comming_soon/chunks.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS AMERICANOS" tvg-logo="https://i.imgur.com/Anlb1SP.png",United States: JBS
+http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS AMERICANOS" tvg-logo="https://i.imgur.com/Anlb1SP.png",United States: Jewelry Television
+http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="CANAIS AMERICANOS" tvg-logo="https://i.imgur.com/Anlb1SP.png",United States: Movee 4U
+https://nimble.dashstreams.net/onestudio/movee4u/chunks.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS AMERICANOS" tvg-logo="https://i.imgur.com/Anlb1SP.png",United States: Movie Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS AMERICANOS" tvg-logo="https://i.imgur.com/Anlb1SP.png",United States: MTV (Latin America)
+http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS AMERICANOS" tvg-logo="https://i.imgur.com/Anlb1SP.png",United States: MTV Norge
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS AMERICANOS" tvg-logo="https://i.imgur.com/Anlb1SP.png",United States: MyHolyfield TV
+https://nimble.dashstreams.net/onestudio/holyfield/chunks.m3u8?IMDSFULL
+#EXTINF:-1 group-title="TV ABERTA",BAND SP HD
+http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w210441685.m3u8
+#EXTINF:-1 group-title="TV ABERTA",TV DIARIO DO SERTÃO
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="TV ABERTA",TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 group-title="RELIGIOSOS",REDE VIDA
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV ABERTA",TV CAMARA
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 group-title="TV ABERTA",TV Diário do Sertão
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="RELIGIOSOS",TV MAX
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
+#EXTINF:-1 group-title="TV ABERTA",Rede Brasil - TV Marajoara (PA)
+http://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8
+#EXTINF:-1 group-title="JORNALISMO",Record News - TV Guará (MA)
+https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
+#EXTINF:-1 group-title="TV ABERTA",RecordTV Natal
+https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playlist.m3u8
+#EXTINF:-1 group-title="VARIEDADES",RTP Internacional
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 group-title="ESPORTES",Real Madrid TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
+#EXTINF:-1 group-title="VARIEDADES",CBTV Now
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L61CJkFk/images.jpg" group-title="FLMES", CLASSIQUE TV
+https://stmv6.srvstm.com/classique/classique/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L61CJkFk/images.jpg" group-title="FLMES", TV Carioca
+https://5d2c98775bafe.streamlock.net/8180/8180/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mghjpmRL/IMG-20200617-WA0105.jpg" group-title="INTERNACIONAL",The Weather Channel
+https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mghjpmRL/IMG-20200617-WA0105.jpg" group-title="INTERNACIONAL",tvE 24
+https://rtvelivestream.akamaized.net/24h_dvr_2750.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9OwQuDE.png" group-title="24/7 VIETNAMESE",Tom & Jerry (Opt-2)
+https://ws.hls.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PdLjy8k.png" group-title="24/7 VIETNAMESE",Tom Cruise Movies (Opt-1)
+https://ws.hls.nimo.tv/live/su1599512427588r6f51cee87c7a082b0df74e113ebeae52_high.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gHCOcuF.png" group-title="INDONESIA",CinemaWorld (Opt-2)
+http://210.210.155.35/uq2663/h/h04/01.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KcCWHbk.png" group-title="INDONESIA",Celestial Movies (Opt-1)
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BDtkjpS.png" group-title="USA",Filmrise Crime  04
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ypQRBrH.png" group-title="USA",Filmrise Family  05
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/648x432_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hV46zMX.png" group-title="USA",Folk TV  06
+http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IDgT6aq.png" group-title="USA",Gone Hunting  07 
+https://edge1.dashmedia.tv/onestudio/hunting/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gh4kB7x.png" group-title="USA",Horrified TV  08
+https://edge1.dashmedia.tv/onestudio/horrified/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cR9FCTg.png" group-title="USA",Planet Cannabis  09
+https://edge1.dashmedia.tv/onestudio/planetshopping/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CIOQGyj.png" group-title="Spain",Canal Andalucia Flamenco  13
+https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/master.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Unsorted",Cine Filmes 4 [286p]  24
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=525649341
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Unsorted",Canal-10  26
+http://stream2.dynalias.com:1935/live/tvlive1/chunklist_w1211325251.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Unsorted",CANAL BHTV  27
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title="USA",Hunt Channel
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ESnlHMY.png" group-title="USA",Kartoon Fun Time (Opt-1)
+https://edge1.dashmedia.tv/onestudio/kartoonfuntime/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5F3CgdU.png" group-title="USA",Mo Laughter TV
+https://59d39900ebfb8.streamlock.net/molaughtertv/molaughtertv/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S6Hcqoy.png" group-title="USA",Movee 4U
+https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YgRz2Cc.png" group-title="USA",Movie Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zZRKYMd.png" group-title="USA",Regalia TV
+https://edge1.dashmedia.tv/onestudio/regalia_network/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GFyJviy.png" group-title="USA",Travel 4U
+https://edge1.dashmedia.tv/onestudio/travel4u/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pHBTJ9v.png" group-title="LUXEMBOURG",RTL (Opt-2)
+http://live-edge02.rtl.lu/channel1/smil:channel1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iMz0APK.png" group-title="BELGIUM",Een
+https://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CoPP6vu.png" group-title="BELGIUM",Ketnet Junior
+http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tK5ZiIU.png" group-title="FRANCE",D5TV
+https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist_w958420568_b1928000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/djtradw.png" group-title="CURAÇAO",Nos Pais TV
+https://558bd16067b67.streamlock.net/nos_pais_24_7/smil:livestream.stream.smil/chunklist_w997519270_b2000000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xy3p7tz.png" group-title="MOZAMBIQUE",TVM (Opt-1)
+http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PdLjy8k.png" group-title="24/7 VIETNAMESE",Tom Cruise Movies (Opt-1)
+https://ws.hls.nimo.tv/live/su1599512427588r6f51cee87c7a082b0df74e113ebeae52_high.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DXwyj7S.png" group-title="BRAZIL",98 Live
+https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PyCpEI8.png" group-title="BRAZIL",AgroBrasil TV
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dRZ9CTG.png" group-title="BRAZIL",All Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rmAm6UE.png" group-title="BRAZIL",Anime TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUU5Hhh.png" group-title="BRAZIL",Band - RBA TV (PA)
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HlSVlfk.png" group-title="BRAZIL",Bons Tempos TV
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fa9GH7d.jpg" group-title="BRAZIL",Brasil Oeste (MT)
+https://5ad482a77183d.streamlock.net/operacaotbomt.com.br/operacaotbomt.com.br/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iQ5Umwj.jpg" group-title="BRAZIL",Canal 29
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YXaX0wZ.jpg" group-title="BRAZIL",Canal Saúde
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vs3B9Ie.png" group-title="BRAZIL",CBN RJ
+https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vs3B9Ie.png" group-title="BRAZIL",CBN SP
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cj6kg2X.png" group-title="BRAZIL",CBTV Now
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QcsihL.jpg" group-title="BRAZIL",Central TV
+http://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c0pR6LU.jpg" group-title="BRAZIL",CNN BRASIL - DEGUSTAÇÃO SINAL INTERNET
+https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azTiRz2.jpg" group-title="BRAZIL",COM Brazil TV
+https://596639ebdd89b.streamlock.net/8032/8032/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5jPEI5c.png" group-title="BRAZIL",Cultura Pará
+http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ybdp3qq.png" group-title="BRAZIL",Mundo TV
+https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xQQOgFd.png" group-title="BRAZIL",MegaCine
+https://stmv1.srvif.com/reconsatcine/reconsatcine/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sJoBFNp.png" group-title="BRAZIL",Novo Tempo
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PafEXRA.png" group-title="BRAZIL",Record News - TV Guará (MA)
+https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TD6ZJoa.png" group-title="BRAZIL",RecordTV Manaus
+https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TD6ZJoa.png" group-title="BRAZIL",RecordTV Natal - TV Tropical
+https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xet7Gr2.png" group-title="BRAZIL",Rede Brasil (SP)
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3XdPAU0.png" group-title="BRAZIL",Rede Brasil - TV Marajoara (PA)
+http://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yvxG9m5.png" group-title="BRAZIL",Rede Gospel
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tgov03S.jpg" group-title="BRAZIL",Rede Minas
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vD69bN7.png" group-title="BRAZIL",Rede Super - github.com/Free-IPTV
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rJ0kO2o.png" group-title="BRAZIL",Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8fGmJWA.png" group-title="BRAZIL",RedeTV! Tocantins
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cbPSlD7.png" group-title="BRAZIL",RedeTV! TV Arapuan HD (PB)
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cyfu3qP.png" group-title="BRAZIL",Retrô Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIDNIqB.png" group-title="BRAZIL",SBT - TV Cidade Verde - (PI)
+https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIDNIqB.png" group-title="BRAZIL",SBT - TV Jornal (PE)
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIDNIqB.png" group-title="BRAZIL",SBT - TV Serra Dourada - (GO)
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIDNIqB.png" group-title="BRAZIL",SBT Tailândia (PA)
+https://5e36c064a2f6a.streamlock.net:1936/8040/8040/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jsQmxyV.jpg" group-title="BRAZIL",Sexy Kpop TV
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GQgWuoU.png" group-title="BRAZIL",TopTV Paraná
+https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1pZUGb4.png" group-title="BRAZIL",TV Aberta SP
+https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cefSiod.jpg" group-title="BRAZIL",TV Birigui
+https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w763334596.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/deYohgq.jpg" group-title="BRAZIL",TV Brusque (SC)
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L46zKad.png" group-title="BRAZIL",TV Candidés
+https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BFekw0L.png" group-title="BRAZIL",TV Cultura - TV Futuro (RJ)
+https://streaming03.zas.media/tvfuturo/tvfuturo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xk20dyv.png" group-title="BRAZIL",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W1LutVP.png" group-title="BRAZIL",TV Destak
+https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c31mDXF.png" group-title="BRAZIL",TV Diário do Sertão
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XBe7M0s.png" group-title="BRAZIL",TV Gazeta (SP)
+http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W6bHHqE.png" group-title="BRAZIL",TV Liberdade
+https://5c483b9d1019c.streamlock.net/8238/8238/playlist-480p.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Stirr City National
+https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Alabama: Birmingham
+https://dai.google.com/linear/hls/event/4RH6FntvSLOIv5FB-p4I8w/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Alabama: Mobile
+https://dai.google.com/linear/hls/event/-V3XSvA2Sa6e8h7cnHXB8w/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Arkansas: Little Rock
+https://dai.google.com/linear/hls/event/MqeaRgFBR2WJ_40ngbDruQ/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",California: Bakersfield
+https://dai.google.com/linear/hls/event/-4GLQIcZTUWzP8vDAXNQsQ/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",California: Fresno-Visalia
+https://dai.google.com/linear/hls/event/tFAJ7xPcTYaLKwIfUA-JIw/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",California: Los Angeles
+https://dai.google.com/linear/hls/event/n3PVAFmPTJSVYjdSVf7XZw/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",California: Chico-Redding
+https://dai.google.com/linear/hls/event/sHnor7AERX60rGA1kR_wPA/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",District of Columbia: Washington D.C.
+https://dai.google.com/linear/hls/event/_VmeKujXTf-nc9Lr2NO6tA/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Florida: Gainesville
+https://dai.google.com/linear/hls/event/Ybz6nJKqSS2fcQYflsmpRw/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Florida: Pensacola
+https://dai.google.com/linear/hls/event/CAU96LSyR_e7MSeK6UTmGQ/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Florida: West Palm Beach
+https://dai.google.com/linear/hls/event/ji4LMCwtRCOw3TrRUKlQMQ/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Georgia: Albany
+https://dai.google.com/linear/hls/event/fD3VBzTxRXGz-v7HV0vryQ/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Georgia: Macon
+https://dai.google.com/linear/hls/event/PPMxI7GZSRG6Kgkp2gSF1g/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Idaho: Boise
+https://dai.google.com/linear/hls/event/EXltT2IOQvCIn8v23_15ow/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Idaho: Lewiston
+https://dai.google.com/linear/hls/event/knBsxnquSYqFXTP_UzcGgw/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Illinois: Champaign
+https://dai.google.com/linear/hls/event/YLDvM8DGQyqsYnDsgxOBPQ/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Illinois: Huntsville - Decatur
+https://dai.google.com/linear/hls/event/YLDvM8DGQyqsYnDsgxOBPQ/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Illinois: Quincy
+https://dai.google.com/linear/hls/event/bjWdbDzwTMOMd8Wmxl4rwg/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Illinois: Springfield #1
+https://dai.google.com/linear/hls/event/YLDvM8DGQyqsYnDsgxOBPQ/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Illinois: Springfield #2
+https://dai.google.com/linear/hls/event/IaAlq3prS8Ghiq0FhLtzGQ/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Indiana: South Bend
+https://dai.google.com/linear/hls/event/VGpvNIxIQRO7PXYRy7P0qw/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Iowa: Cedar Rapids
+https://dai.google.com/linear/hls/event/zPJC-rOUTg28uymLdmYw5w/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Iowa: Keokuk - github.com/Free-IPTV
+https://dai.google.com/linear/hls/event/bjWdbDzwTMOMd8Wmxl4rwg/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Iowa: Ottumwa
+https://dai.google.com/linear/hls/event/jH-4z3EkQO-fLYYgjX7d3g/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Iowa: Sioux City
+https://dai.google.com/linear/hls/event/0Uj4AmiOSw6oTX9ilyV2rQ/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Maine: Portland
+https://dai.google.com/linear/hls/event/OaqAqJ0yQPiEIUIYqD7IGQ/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Maryland: Baltimore
+https://dai.google.com/linear/hls/event/jCNW8TtPRe6lnJMMVBZWVA/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Michigan: Bay City
+https://dai.google.com/linear/hls/event/kJPGlFKuS0itUoW7TfuDYQ/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Michigan: Cadillac
+https://dai.google.com/linear/hls/event/do9arGJBTD--KARQ056kpw/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Michigan: Flint
+https://dai.google.com/linear/hls/event/kJPGlFKuS0itUoW7TfuDYQ/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Michigan: Grand Rapids
+https://dai.google.com/linear/hls/event/leOKmL9fQ6eZyhdoROSh5Q/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Michigan: Saginaw
+https://dai.google.com/linear/hls/event/kJPGlFKuS0itUoW7TfuDYQ/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Michigan: Traverse City
+https://dai.google.com/linear/hls/event/do9arGJBTD--KARQ056kpw/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Minnesota: Minneapolis
+https://dai.google.com/linear/hls/event/0P8RZiJkSBWfVDtjy-IiIQ/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Missouri: Columbia
+https://dai.google.com/linear/hls/event/nkNBP1eHT_GQwS7oYq23zw/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Missouri: Hannibal
+https://dai.google.com/linear/hls/event/bjWdbDzwTMOMd8Wmxl4rwg/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Missouri: Jefferson City
+https://dai.google.com/linear/hls/event/nkNBP1eHT_GQwS7oYq23zw/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Missouri: Kirksville
+https://dai.google.com/linear/hls/event/jH-4z3EkQO-fLYYgjX7d3g/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Missouri: St. Louis
+https://dai.google.com/linear/hls/event/O5W1HC47QEKGc5tyscvsLw/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Montana: Missoula
+https://dai.google.com/linear/hls/event/ARX9M-X8RieADdAEYPXNuA/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Nebraska: Hastings
+https://dai.google.com/linear/hls/event/xtKyBDIFSZa6cT4Of9yaGQ/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Nevada: Las Vegas
+https://dai.google.com/linear/hls/event/yDGZP35hTsqdf2rwaP1BGQ/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Nevada: Reno
+https://dai.google.com/linear/hls/event/0Zb5SSQcTme6P7FYwwAwcQ/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",New York: Albany
+https://dai.google.com/linear/hls/event/LT14Y2LdQSWx9OQCmgVfuA/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",New York: Rochester
+https://dai.google.com/linear/hls/event/FftwN8CLTnaX1pFHztXlYw/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",New York: Syracuse
+https://dai.google.com/linear/hls/event/HSX_ZpxDQNy5aXzJHjhGGQ/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",North Carolina: Greenville - Asheville
+https://dai.google.com/linear/hls/event/trvuY4TqQCmrAKFTlr6tPQ/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",North Carolina: Greenville - New Bern
+https://dai.google.com/linear/hls/event/B6RsXGIZSVqeVZGZIEZESg/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",North Carolina: Raleigh - Durham
+https://dai.google.com/linear/hls/event/86JIujPNRWiVvtfzksp8QQ/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Ohio: Cincinnati
+https://dai.google.com/linear/hls/event/ZaLvGYKiTfuSYgJuBZD67Q/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Ohio: Columbus #1
+https://dai.google.com/linear/hls/event/wV5ExXM9RxabBzbWnVv9RA/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Ohio: Columbus #2
+https://dai.google.com/linear/hls/event/QLfrYVtERpCnzM7qE_PkUw/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Ohio: Dayton
+https://dai.google.com/linear/hls/event/nqvIiznDQO60CBNaJ5mmdQ/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Ohio: Toledo - github.com/Free-IPTV
+https://dai.google.com/linear/hls/event/1QSZA8OjS1y2Q64uTl5vWQ/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Ohio: Wheeling - Steubenville
+https://dai.google.com/linear/hls/event/dcaYfE2nRnqC6eAvCFWfzQ/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Oklahoma: Oklahoma City
+https://dai.google.com/linear/hls/event/pRd-k6tZSiCRsw_f51Vcvg/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Oklahoma: Tulsa
+https://dai.google.com/linear/hls/event/5kbHZRGGS--RHp41xaUJHQ/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Oregon: Eugene - Springfield #1
+https://dai.google.com/linear/hls/event/Ep4QBzH-TKW0iLhPVGuCvA/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Oregon: Eugene - Springfield #2
+https://dai.google.com/linear/hls/event/bERQw8-YRoK3MtJ0UUaI5w/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Oregon: Medford
+https://dai.google.com/linear/hls/event/1g9qH9IOSIGGwAqw8fPzmw/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Oregon: Portland
+https://dai.google.com/linear/hls/event/npdISdLWSIa1E_j7NCUDBg/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Pennsylvania: Harrisburg
+https://dai.google.com/linear/hls/event/W_NyV_9eQ-qa0XDSMfYkEg/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Pennsylvania: Johnstown - Altoona
+https://dai.google.com/linear/hls/event/BXZlH0kXTeGczlQ49-0QFQ/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Pennsylvania: Lancaster
+https://dai.google.com/linear/hls/event/W_NyV_9eQ-qa0XDSMfYkEg/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Pennsylvania: Pittsburgh
+https://dai.google.com/linear/hls/event/qJU_NkxXQoCbACvG5BWrXQ/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Pennsylvania: Wilkes Barre - Scranton
+https://dai.google.com/linear/hls/event/jlf2tRLPTg2xjMtKe5ey-w/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Pennsylvania: York
+https://dai.google.com/linear/hls/event/W_NyV_9eQ-qa0XDSMfYkEg/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Rhode Island: Providence
+https://dai.google.com/linear/hls/event/5hLTCUyrQcS3B-NF8fNp-g/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",South Carolina: Anderson
+https://dai.google.com/linear/hls/event/trvuY4TqQCmrAKFTlr6tPQ/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",South Carolina: Charleston
+https://dai.google.com/linear/hls/event/kMNMCCQsQYyyk2n2h_4cNw/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",South Carolina: Columbia
+https://dai.google.com/linear/hls/event/btXotLiMRvmsa5J5AetBGQ/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",South Carolina: Florence
+https://dai.google.com/linear/hls/event/6Ll-qQyAQlWgCt4PhH11Kw/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",South Carolina: Greenville - Asheville
+https://dai.google.com/linear/hls/event/trvuY4TqQCmrAKFTlr6tPQ/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",South Carolina: Myrtle Beach
+https://dai.google.com/linear/hls/event/6Ll-qQyAQlWgCt4PhH11Kw/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Tennessee: Chattanooga
+https://dai.google.com/linear/hls/event/7_v7qMjnQWGZShy2eOvR5g/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Tennessee: Nashville
+https://dai.google.com/linear/hls/event/IG9ThaPaTwCojeoEWVNZRQ/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Texas: Abilene
+https://dai.google.com/linear/hls/event/uxPBn5ErTQ-FOjxIYle2PA/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Texas: Amarillo
+https://dai.google.com/linear/hls/event/qvOGhZEeQh-s6TMFz7dVcg/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Texas: Austin
+https://dai.google.com/linear/hls/event/zDh7VBx8S7Sog5vzcXuehg/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Texas: Beaumont
+https://dai.google.com/linear/hls/event/FKoa3RaEQxyyrf8PfPbgkg/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Texas: Beaumont - Port Arthur
+https://dai.google.com/linear/hls/event/tlvrrqidRaG0KbLN4Hd5mg/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Texas: El Paso #1
+https://dai.google.com/linear/hls/event/MYhAOCTqQA6QFBdc1xwULQ/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Texas: El Paso #2
+https://dai.google.com/linear/hls/event/Exp7zxEPSLWuEhMoD2voOg/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Texas: San Angelo
+https://dai.google.com/linear/hls/event/uxPBn5ErTQ-FOjxIYle2PA/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Texas: San Antonio
+https://dai.google.com/linear/hls/event/TIQuLmldSj2SqS8y2ud9Xg/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Texas: Sweetwater
+https://dai.google.com/linear/hls/event/uxPBn5ErTQ-FOjxIYle2PA/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Utah: Salt Lake City
+https://dai.google.com/linear/hls/event/1bMiswhQQxqH-X8D3qbmKQ/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Virginia: Lynchburg - Roanoke
+https://dai.google.com/linear/hls/event/Fwm4J95UQi67l2FEV7N5kQ/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Virginia: Norfolk - Portsmouth
+https://dai.google.com/linear/hls/event/QuSOUXM4RPaC5zL4J8ZY3w/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Virginia: Tri-Cities
+https://dai.google.com/linear/hls/event/KPOafkGTRle7jOcRb9_KFw/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Washington: Seattle
+https://dai.google.com/linear/hls/event/VLEduzwwQfGSwV4eNdkj0g/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Washington: Spokane
+https://dai.google.com/linear/hls/event/knBsxnquSYqFXTP_UzcGgw/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Washington: Tacoma
+https://dai.google.com/linear/hls/event/VLEduzwwQfGSwV4eNdkj0g/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Washington: Yakima - Pasco #1
+https://dai.google.com/linear/hls/event/Ae0L5AucTcqefaIvaS504A/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Washington: Yakima - Pasco #2
+https://dai.google.com/linear/hls/event/FJejnzFjSFGpaogi0GzPyw/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",West Virginia: Charleston - Huntington
+https://dai.google.com/linear/hls/event/fLqJePs_QR-FRTttC8fMIA/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",West Virginia: Wheeling
+https://dai.google.com/linear/hls/event/dcaYfE2nRnqC6eAvCFWfzQ/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Wisconsin: Green Bay - github.com/Free-IPTV
+https://dai.google.com/linear/hls/event/a6lsWNYDQwyM9fjytUCrcw/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="USA STIRR CITY" tvg-logo="https://i.imgur.com/7JgPJxx.png",Wisconsin: Milwaukee
+https://dai.google.com/linear/hls/event/jWaxnXHPQjGX1yTxuFxpuw/master.m3u8
+#EXTINF:-1 tvg-id="Flix.in" tvg-name="&Flix" tvg-country="IN" tvg-language="English" tvg-logo="https://static.epg.best/in/AndFlix.in.png" tvg-url="" group-title="Movies",&Flix
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="priveHD.in" tvg-name="&privé HD" tvg-country="SAS" tvg-language="English" tvg-logo="" tvg-url="" group-title="Movies",&privé HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="AECrime360.us" tvg-name="A&E Crime 360" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/K1kJf1s.png" tvg-url="" group-title="",A&E Crime 360
+https://aenetworks-crime360-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Action Movies DE" tvg-logo="https://i.imgur.com/81NIxYJ.jpg" group-title="GERMANY SG TV PLUS",Action Movies DE
+https://rakuten-actionmovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Action Movies AT" tvg-logo="https://i.imgur.com/81NIxYJ.jpg" group-title="GERMANY SG TV PLUS",Action Movies AT
+https://rakuten-actionmovies-5-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Action Movies CH" tvg-logo="https://i.imgur.com/81NIxYJ.jpg" group-title="GERMANY SG TV PLUS",Action Movies CH
+https://rakuten-actionmovies-4-ch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Movies DE" tvg-logo="https://i.imgur.com/slOK2IH.jpg" group-title="GERMANY SG TV PLUS",Comedy Movies DE
+https://rakuten-comedymovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Movies AT" tvg-logo="https://i.imgur.com/slOK2IH.jpg" group-title="GERMANY SG TV PLUS",Comedy Movies AT
+https://rakuten-comedymovies-5-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Movies CH" tvg-logo="https://i.imgur.com/slOK2IH.jpg" group-title="GERMANY SG TV PLUS",Comedy Movies CH
+https://rakuten-comedymovies-4-ch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Drama DE" tvg-logo="https://i.imgur.com/5bC53Xk.jpg" group-title="GERMANY SG TV PLUS",Drama DE
+https://rakuten-tvshows-3-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Drama AT" tvg-logo="https://i.imgur.com/5bC53Xk.jpg" group-title="GERMANY SG TV PLUS",Drama AT
+https://rakuten-tvshows-5-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Drama CH" tvg-logo="https://i.imgur.com/5bC53Xk.jpg" group-title="GERMANY SG TV PLUS",Drama CH
+https://rakuten-tvshows-4-ch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Cine Acción" tvg-logo="http://images.pluto.tv/channels/5d8d164d92e97a5e107638d2/colorLogoPNG.png" group-title="USA PLUTO",Pluto TV Cine Acción
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="Pluto TV Cine Terror" tvg-logo="http://images.pluto.tv/channels/5d8d180092e97a5e107638d3/colorLogoPNG.png" group-title="USA PLUTO",Pluto TV Cine Terror
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="Pluto TV Horror" tvg-logo="http://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png" group-title="USA PLUTO",Pluto TV Horror
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bJGaOdW.png" group-title="USA REDBOX",American Classics
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="Space 1999" tvg-name="Space 1999" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/aaaa25c9-d98a-46b8-8dca-3851ab93d3ee-small3x1_STIRR_Logo_0320_SPACE1999_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="USA STIRR",Space 1999
+https://dai.google.com/linear/hls/event/NeKNJHuzSeCiN_7Fcuo83Q/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Classic Movies
+http://nrpus.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Drive-in Movie
+http://nrpus.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Front Page Detective
+https://nrpus.bozztv.com/36bay2/gusa-tvsfrontpagedetective/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Horror
+https://nrpus.bozztv.com/36bay2/gusa-tvshorror/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Western Movie
+http://nrpus.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
+#EXTINF:-1 tvg-name="Popcorn Flix Action" tvg-logo="https://i.imgur.com/CgYnCxA.png" group-title="USA Bumblebee",Popcorn Flix Action
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
+#EXTINF:-1 tvg-name="Giniko Classic Cinema TV" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA GINIKO",Giniko Classic Cinema TV
+https://nrpus.bozztv.com/36bay2/gusa-classiccinema/index.m3u8
+#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5f171d3442a0500007362f22" tvg-name="Filmes Suspense" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png" ,Filmes Suspense
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5f1eed3c29b39600073e2ec0" tvg-name="Os Três Patetas" tvg-logo="https://images.pluto.tv/channels/5f1eed3c29b39600073e2ec0/colorLogoPNG.png" ,Os Três Patetas
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1eed3c29b39600073e2ec0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5f120e94a5714d00074576a1" tvg-name="Pluto TV Cine Sucessos" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" ,Pluto TV Cine Sucessos
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5f12111c9e6c2c00078ef3bb" tvg-name="Pluto TV Cine Terror" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" ,Pluto TV Cine Terror
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5f120f41b7d403000783a6d6" tvg-name="Pluto TV Filmes Ação" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" ,Pluto TV Filmes Ação
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5f5a545d0dbf7f0007c09408" tvg-name="Pluto TV Filmes Nacionais" tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG.png" ,Pluto TV Filmes Nacionais
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5f121262a189a800076b9386" tvg-name="Pluto TV Séries" tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png" ,Pluto TV Séries
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b9386/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 
+id="5ddc4e8bcbb9010009b4e84f" tvg-logo="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/colorLogoPNG.png" group-title="MEXICO PLUTO",Pluto TV Cine Suspenso
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="5dcddf1ed95e740009fef7ab" tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png" group-title="MEXICO PLUTO",Pluto TV Cine Terror
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-name="Action Hollywood Movies" tvg-id="" tvg-logo="https://i.imgur.com/wnlzC0w.jpg" group-title="AUSTRALIA",Action Hollywood Movies
+https://lightning-actionhollywood-samsungaustralia.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PERSIANA CINEMA" tvg-logo="https://i.imgur.com/PNgDL7b.png" group-title="IRAN",PERSIANA CINEMA
+http://51.210.199.15/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PERSIANA CLASSIC" tvg-logo="https://i.imgur.com/2r7qMfh.png" group-title="IRAN",PERSIANA CLASSIC
+http://51.210.199.26/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TF1" tvg-logo="https://i.imgur.com/Y2C6vP7.png" group-title="FRANCE",TF1
+https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TF1 Series Films" tvg-logo="https://i.imgur.com/qFLq6lE.png" group-title="FRANCE",TF1 Series Films
+https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TFX" tvg-logo="https://i.imgur.com/yJ5JRAK.png" group-title="FRANCE",TFX
+https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TMA" tvg-logo="https://i.imgur.com/qgNyto3.jpg" group-title="FRANCE",TMA
+http://hls.tmacaraibes.com/live/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TMC" tvg-logo="https://i.imgur.com/s9BIeQ8.png" group-title="FRANCE",TMC
+https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Action Movies" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="ITALY",Action Movies
+https://rakuten-actionmovies-6-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine 34" tvg-logo="https://i.imgur.com/cOpASOB.png" group-title="ITALY",Cine 34
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Spike" tvg-logo="https://i.imgur.com/XOJMD0u.png" group-title="ITALY",Spike
+https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/master.m3u8
+#EXTINF:-1 tvg-name="Top Series" tvg-id="" group-title="ITALY" tvg-logo="https://i.imgur.com/P4hb5Ws.jpg",Top Series
+https://endemol-top-serie-1-it.samsung.wurl.com/manifest/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
